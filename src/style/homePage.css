@@ -1,0 +1,8 @@
+.homePageButtons {
+  display: flex;
+  flex-direction: column;
+  background-color: blue;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}

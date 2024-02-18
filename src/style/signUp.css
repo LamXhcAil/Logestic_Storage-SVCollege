@@ -1,0 +1,40 @@
+#createButton {
+  background-color: #606060;
+  border-color: black;
+  text-align: left;
+  display: flex;
+  margin: 20px;
+}
+
+#signUpTitle {
+  color: black;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.inputsDiv {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  margin: 20px;
+}
+
+.errors {
+  color: red;
+}
+
+.radioLabel {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+
+.subTitles {
+  text-align: left;
+  display: flex;
+  margin-left: 20px;
+}
+
+.inputs {
+  margin-left: 10px;
+}
